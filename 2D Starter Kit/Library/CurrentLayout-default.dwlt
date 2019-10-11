@@ -96,8 +96,8 @@ MonoBehaviour:
     y: 483
     width: 1612
     height: 474
-  m_MinSize: {x: 434, y: 272}
-  m_MaxSize: {x: 14004, y: 10022}
+  m_MinSize: {x: 436, y: 272}
+  m_MaxSize: {x: 14006, y: 10022}
   vertical: 0
   controlID: 103
 --- !u!114 &5
@@ -121,8 +121,8 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 957
-  m_MinSize: {x: 711, y: 494}
-  m_MaxSize: {x: 18006, y: 14044}
+  m_MinSize: {x: 713, y: 494}
+  m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
   controlID: 31
 --- !u!114 &6
@@ -170,8 +170,8 @@ MonoBehaviour:
     y: 0
     width: 1069
     height: 474
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 222}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -266,8 +266,8 @@ MonoBehaviour:
     y: 0
     width: 1612
     height: 957
-  m_MinSize: {x: 434, y: 494}
-  m_MaxSize: {x: 14004, y: 14044}
+  m_MinSize: {x: 436, y: 494}
+  m_MaxSize: {x: 14006, y: 14044}
   vertical: 1
   controlID: 32
 --- !u!114 &12
@@ -360,19 +360,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/2DGamekit/Prefabs/Interactables
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 58
   m_LastFolders:
-  - Assets/2DGamekit/Prefabs/Interactables
+  - Assets
   m_LastFoldersGridSize: 58
   m_LastProjectPath: C:\Users\Neil\Desktop\Code\Unity-Projects\2D Starter Kit
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 13}
-    m_SelectedIDs: c84e0000
-    m_LastClickedID: 20168
+    m_SelectedIDs: 9c310000
+    m_LastClickedID: 12700
     m_ExpandedIDs: 000000009c310000ac320000ee3c0000f8430000524e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -401,7 +401,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 8a590000
     m_LastClickedID: 22922
-    m_ExpandedIDs: 000000009c310000ac320000ee3c00001e3d0000f8430000984a0000684b0000304e0000524e00007a500000
+    m_ExpandedIDs: 000000009c310000ac320000ee3c0000f8430000524e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -524,9 +524,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 68fbffff
-      m_LastClickedID: -1176
-      m_ExpandedIDs: 6afbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: dee9ffff92edffff82efffff98f2ffffc8f2ffffbcf4ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -586,9 +586,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 8.775309, y: 4.582516, z: -55.41079}
+    m_Target: {x: 2.163895, y: 0.8250294, z: -57.246094}
     speed: 2
-    m_Value: {x: 8.972935, y: 4.520288, z: -55.343933}
+    m_Value: {x: 2.163895, y: 0.8250294, z: -57.246094}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -621,9 +621,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 15.538674
+    m_Target: 18.084856
     speed: 2
-    m_Value: 14.869545
+    m_Value: 18.084856
   m_Ortho:
     m_Target: 1
     speed: 2
